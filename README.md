@@ -15,7 +15,7 @@ Apply data cleaning and preprocessing techniques
 
 Train and evaluate machine learning models
 
-🛠 Tools & Techniques
+ Tools & Techniques
 Python, Pandas, NumPy
 
 Scikit-learn for modeling
